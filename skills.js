@@ -1,3 +1,3 @@
 function claculateNumbers(var1, var2) {
-    var sumTotal = var1 + var2;
+    console.log(var1 + var2);
 }
